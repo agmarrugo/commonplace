@@ -1,6 +1,7 @@
 ---
 layout: page
 title: La felicidad es una habilidad 
+description: Por qué debemos cultivar la felicidad
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
