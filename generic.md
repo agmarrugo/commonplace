@@ -8,13 +8,13 @@ nav-menu: true
 
 Devon Eriksen respondiéndole a Yuval Noah Harari:
 
-> That's because this dude doesn't know what education is.    
+> That's because this dude doesn't know what education is.        
 >
 > 
-> He speaks of growing wheat, herding sheep, riding a horse, and so on, but in the era of these skills, this was the kind of education given to slaves.    
+> He speaks of growing wheat, herding sheep, riding a horse, and so on, but in the era of these skills, this was the kind of education given to slaves.        
 >
 >  
-> Only a slave, a person who was owned as property, and used as a machine for a task, could be expected to do one task for his whole life.    
+> Only a slave, a person who was owned as property, and used as a machine for a task, could be expected to do one task for his whole life.        
 >
 >  
 > A gentleman, or even a freeman of the lower classes, was not a machine for labor, but a person who could be expected to act in his own interests, and thus would need to do many different things throughout his life, depending on what served his goals at the time.    
