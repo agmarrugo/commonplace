@@ -1,10 +1,14 @@
 ---
 title: Sobre la educación desde la mesa
 layout: post
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'La educacion nace en la conversacion.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+
+> At his table he liked to have, as often as he could, some sensible friend or neighbor to converse with, and always took care to start some ingenious or useful topic for discourse, which might tend to improve the minds of his children. By this means he turned our attention to what was good, just, and prudent in the conduct of life;”
+>
+> — The Autobiography of Benjamin Franklin by Benjamin Franklin
 
 Siempre he creído que la crianza debería girar en torno a la mesa, ese espacio donde el acto de compartir se convierte en un ritual. Allí donde el diálogo, cultivado durante miles de años, está en el corazón mismo de lo que significa ser humano.
 
