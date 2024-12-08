@@ -8,29 +8,28 @@ nav-menu: true
 
 Devon Eriksen respondiéndole a Yuval Noah Harari:
 
-> That's because this dude doesn't know what education is.        <br>
->
-> 
+> That's because this dude doesn't know what education is.        
+> <br>
 > He speaks of growing wheat, herding sheep, riding a horse, and so on, but in the era of these skills, this was the kind of education given to slaves.        
 > <br>
 >  
 > Only a slave, a person who was owned as property, and used as a machine for a task, could be expected to do one task for his whole life.        
->
+> <br>
 >  
 > A gentleman, or even a freeman of the lower classes, was not a machine for labor, but a person who could be expected to act in his own interests, and thus would need to do many different things throughout his life, depending on what served his goals at the time.    
->
+> <br>
 >  
 > And he would need to be able to independently learn these tasks, rather than needing to be taught them in childhood.  
->
+> <br>
 >  
 > Therefore, if a boy was to be formally educated, that might include some of the gentleman's skills (riding, fighting with a sword, the management of finances), but his education was centered around what education really meant:  
->
+> <br>
 >  
 > A fundamental grounding in how to live and thrive as an independent and free-willed person.  
->
+> <br>
 > 
 > Thus, he was taught the seven liberal arts of classical antiquity:  
->  
+>  <br>
 > - Arithmetic  
 > - Geometry  
 > - Music  
@@ -41,7 +40,7 @@ Devon Eriksen respondiéndole a Yuval Noah Harari:
 >
 > 
 > These were not trade skills in the sense that they did not enable the performance of any particular trade or task, but that wasn't the point.  
->
+> <br>
 > 
 > The point was that they taught the young gentleman how to think and learn.  
 >
