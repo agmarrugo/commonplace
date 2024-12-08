@@ -10,7 +10,10 @@ Del capítulo sobre la felicidad:
 
 > **HAPPINESS IS BUILT BY HABITS**         
 > <br>
+>
 > "My most surprising discovery in the last five years is that peace and happiness are skills. These are not things you are born with. Yes, there is a genetic range. And a lot of it is conditioning from your environment, but you can un-condition and recondition yourself.
+> <br>
+> 
 > You can increase your happiness over time, and it starts with believing you can do it.
 > <br>
 >
