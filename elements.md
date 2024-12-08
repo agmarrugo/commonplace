@@ -13,12 +13,16 @@ Del capítulo sobre la felicidad:
 > "My most surprising discovery in the last five years is that peace and happiness are skills. These are not things you are born with. Yes, there is a genetic range. And a lot of it is conditioning from your environment, but you can un-condition and recondition yourself.
 > You can increase your happiness over time, and it starts with believing you can do it.
 > <br>
+>
 > It’s a skill. Just like nutrition is a skill, dieting is a skill, working out is a skill, making money is a skill, meeting girls and guys is a skill, having good relationships is a skill, even love is a skill.
 > <br>
+>
 > It starts with realizing they’re skills you can learn. When you put your intention and focus on it, the world can become a better place.
 >  <br>
+>
 > When working, surround yourself with people more successful than you. When playing, surround yourself with people happier than you." 
 > <br>
+>
 > -- Naval Ravikant, *The Almanack of Naval Ravikant: A Guide to Wealth and Happiness*
 
 Si la felicidad es un estado que requiere paz mental y tranquilidad, no sorprende que sea una habilidad que se pueda entrenar y mejorar con el tiempo. Como decía Proust, el verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos. Quizás gran parte de nuestra infelicidad proviene de la ansiedad de no cultivar buenos hábitos, de vivir atrapados en el ayer o en el mañana.
