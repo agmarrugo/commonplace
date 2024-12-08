@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sobre qué enseñar a los jóvenes
-description: Reflexión sobre la educación y la formación del pensamiento libre
+description:  Las nuevas artes liberales
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
