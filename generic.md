@@ -9,18 +9,19 @@ nav-menu: false
 Devon Eriksen respondiéndole a Yuval Noah Harari:
 
 > That's because this dude doesn't know what education is.        
+> <br>
 > 
 > He speaks of growing wheat, herding sheep, riding a horse, and so on, but in the era of these skills, this was the kind of education given to slaves.        
-> 
+> <br>
 >  
 > Only a slave, a person who was owned as property, and used as a machine for a task, could be expected to do one task for his whole life.        
-> 
+> <br>
 >  
 > A gentleman, or even a freeman of the lower classes, was not a machine for labor, but a person who could be expected to act in his own interests, and thus would need to do many different things throughout his life, depending on what served his goals at the time.    
-> 
+> <br>
 >  
 > And he would need to be able to independently learn these tasks, rather than needing to be taught them in childhood.  
-> 
+> <br>
 >  
 > Therefore, if a boy was to be formally educated, that might include some of the gentleman's skills (riding, fighting with a sword, the management of finances), but his education was centered around what education really meant:  
 > <br>
@@ -84,7 +85,7 @@ Devon Eriksen respondiéndole a Yuval Noah Harari:
 > <br>
 > 
 > **— Devon Eriksen**  
->  <br>
+> 
 > [Original post on X.com](https://x.com/devon_eriksen_/status/1766666283368562883?s=46&t=bx5XQJwFmhMyRz3MGf2l7A)
 
 No solo estoy de acuerdo con Eriksen, sino que encuentro fundamental enseñar a nuestros hijos a pensar por sí mismos, a aprender por sí solos las habilidades necesarias para ser pensadores libres, personas capaces de actuar por cuenta propia.
