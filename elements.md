@@ -32,10 +32,15 @@ Si la felicidad es un estado que requiere paz mental y tranquilidad, no sorprend
 
 Por eso, criar hijos y pasar tiempo con ellos se convierte en un acto casi terapéutico. ¿Acaso hay seres más inmersos en el presente que los niños? En su risa, en su asombro constante, parecen recordarnos que la felicidad no es más que una versión ligera del ahora.
 
-> What type of skill is happiness?
+> **What type of skill is happiness?**
+> <br>
+>
 > "It’s all trial and error. You just see what works. You can try sitting meditation. Did that work for you? Was it Tantra meditation or was it Vipassana meditation? Was it a ten-day retreat or was twenty minutes enough?
-> 
+> <br>
+>
 > Okay. None of those worked. But what if I tried yoga? What if I kite-surfed? What if I go car racing? What about cooking? Does that make me Zen? You literally have to try all of these things until you find something that works for you."
+> <br>
+> 
 > -- Naval Ravikant, *The Almanack of Naval Ravikant: A Guide to Wealth and Happiness*
 
 Hay quienes buscan la paz en el yoga, la meditación o el gimnasio. No todos somos iguales, por lo que cada uno debe encontrar aquello que funciona para su espíritu. Para mí, cocinar es lo que me da sentido. En la paciencia que exige, en el calor del fuego y el lento despertar de los sabores, encuentro una calma que me ancla. No hay atajos: el proceso es tan valioso como el resultado.
