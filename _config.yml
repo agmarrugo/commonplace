@@ -4,7 +4,7 @@ subtitle: Un rincón de voces, escritos y reflexiones.
 email: youremailaddress@gmail.com
 description: Un espacio digital donde convergen citas, ideas y reflexiones que inspiran.
 baseurl: "/commonplace" # the subpath of your site, e.g. /blog
-url: andresmarrugo.net # the base hostname & protocol for your site
+url:  # the base hostname & protocol for your site
 author: Andrés Marrugo
 street_address: 
 city: Cartagena de Indias
