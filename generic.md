@@ -8,7 +8,7 @@ nav-menu: true
 
 Devon Eriksen respondiéndole a Yuval Noah Harari:
 
-> That's because this dude doesn't know what education is.   </br>     
+> That's because this dude doesn't know what education is.   <br>     
 >
 > 
 > He speaks of growing wheat, herding sheep, riding a horse, and so on, but in the era of these skills, this was the kind of education given to slaves.        
