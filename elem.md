@@ -1,19 +1,21 @@
 ---
-title: Sobre la educación desde la mesa 2
+title: Lo que amamos
 layout: post
-description: 'La educacion nace en la conversacion 2'
+description: 'El secreto de la esperanza.'
 image: assets/images/pic07.jpg
 nav-menu: false
 ---
 
-> At his table he liked to have, as often as he could, some sensible friend or neighbor to converse with, and always took care to start some ingenious or useful topic for discourse, which might tend to improve the minds of his children. By this means he turned our attention to what was good, just, and prudent in the conduct of life;”
+ 
+> "I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend."
+> 
 >
-> — The Autobiography of Benjamin Franklin by Benjamin Franklin
+> “It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were. And sometimes you didn't want to know the end. Because how could the end be happy? How could the world go back to the way it was when so much bad had happened? But in the end, it’s only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer. Those were the stories that stayed with you. That meant something, even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now. Folk in those stories had lots of chances of turning back, only they didn’t. They kept going, because they were holding on to something. That there is some good in this world, and it's worth fighting for.”    
+> 
+> J.R.R. Tolkien, in The Lord of the Rings
 
-2Siempre he creído que la crianza debería girar en torno a la mesa, ese espacio donde el acto de compartir se convierte en un ritual. Allí donde el diálogo, cultivado durante miles de años, está en el corazón mismo de lo que significa ser humano.
 
-En esas conversaciones de sobremesa donde ninguna pregunta es inoportuna y la curiosidad se asoma sin restricciones, reside la esencia de la verdadera educación. La lección que el padre de Benjamín Franklin le dejó es, sin duda, una de las más valiosas que uno puede legar a sus hijos: crear un ambiente donde las ideas fluyan con libertad y la conversación sirva como guía y punto de encuentro.
+Al final del día, todo se reduce a eso, a lo que defendemos. Todos anhelamos lo mismo que Sam: amor, un jardín, un hogar cálido, amigos, una buena conversación acompañada de una cerveza. Sin embargo, también debemos remangarnos y enfrentar la tarea, como lo hizo Sam.
 
-Exponer a los hijos a conversaciones con personas ilustradas y apasionadas en sus campos abre ante ellos un universo de posibilidades. Les permite conectar conocimientos antes inexplorados, comprender el mundo desde nuevas perspectivas y descubrir en los demás reflejos de sus propias inquietudes.
+La belleza de estas citas reside en la esperanza que ofrecen en momentos de dificultad, recordándonos que la fuerza está en aquello que amamos. Lo que amamos nos convierte en mejores esposos, mejores padres y mejores ciudadanos.
 
-Es reconfortante pensar que gracias a este enfoque, su padre logró enseñar a sus hijos lo que era bueno, justo y prudente en la vida, no a través de sermones, sino mediante el diálogo sincero y el poder transformador de una conversación genuina.
