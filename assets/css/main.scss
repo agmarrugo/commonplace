@@ -78,3 +78,9 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+
+blockquote {
+  white-space: pre-wrap; /* Preserve line breaks */
+  line-height: 1.6;      /* Adjust spacing between lines for readability */
+}
