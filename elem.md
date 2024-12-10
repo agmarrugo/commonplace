@@ -3,7 +3,8 @@ title: Lo que amamos
 layout: post
 description: 'El secreto de la esperanza.'
 image: assets/images/pic12.jpg
-nav-menu: false
+nav-menu: true
+show_tile: true
 ---
 
  
