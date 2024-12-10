@@ -2,7 +2,7 @@
 layout: post
 title: La felicidad es una habilidad 
 description: Por qué debemos cultivar la felicidad
-image: assets/images/pic03.jpg
+image: assets/images/pic15.jpg
 nav-menu: false
 ---
 
