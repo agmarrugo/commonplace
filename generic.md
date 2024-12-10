@@ -3,7 +3,7 @@ layout: post
 title: Sobre qué enseñar a los jóvenes
 description:  Las nuevas artes liberales.
 image: assets/images/pic14.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 Devon Eriksen respondiéndole a Yuval Noah Harari:
