@@ -31,15 +31,15 @@ nav-menu: true
 > del relojero de la ciudad. Todos los días a las 17:45 pongo mi reloj y  
 > subo la colina donde mi cañón está listo.  
 > A las 17:59, precisamente, me acerco al cañón  
-> y a las 18:00 disparo."
+> y a las 18:00 disparo."    
 > <br>
 >  
 > Y estaba claro  
 > que este método de disparo era absolutamente preciso.  
 > Todo lo que quedaba era revisar ese cronómetro. Entonces,  
 > el relojero de la ciudad fue interrogado sobre  
-> la precisión de su instrumento.
-> <br>
+> la precisión de su instrumento.    
+>  <br>
 >  
 > "Oh," dijo el relojero,  
 > "este es uno de los instrumentos más precisos de la historia. Imagínense que  
