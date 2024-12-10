@@ -2,7 +2,7 @@
 layout: post
 title: Sobre la precisión
 description: Ser consciente del otro.
-image: assets/images/pic01.jpg
+image: assets/images/pic16.jpg
 nav-menu: true
 ---
 
