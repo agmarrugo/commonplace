@@ -2,7 +2,7 @@
 title: Sobre la educación desde la mesa
 layout: post
 description: 'La educacion nace en la conversacion.'
-image: assets/images/pic07.jpg
+image: assets/images/pic13.jpg
 nav-menu: false
 ---
 
