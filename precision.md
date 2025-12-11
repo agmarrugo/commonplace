@@ -1,55 +1,14 @@
 ---
 layout: post
-title: Sobre la precisión
-description: Ser consciente del otro.
+title: El amor quijotesco por la justicia
+description: Por un mundo mejor.
 image: assets/images/pic16.jpg
 nav-menu: true
 ---
 
-> **Breve reflexión sobre la precisión**  
->  
-> Los peces  
-> siempre saben con precisión dónde moverse y cuándo,  
-> y del mismo modo las  
-> aves tienen un sentido del tiempo  
-> y orientación precisos.  
-> <br>
-> 
-> Sin embargo, la humanidad, que  
-> carece de tales instintos, recurre a la  
-> investigación científica. Su naturaleza se ilustra con  
-> la siguiente ocurrencia.  
-> <br>
-> 
-> Cierto soldado  
-> tenía que disparar un cañón a las seis en punto todas las noches.  
-> Siendo soldado, lo hizo. Cuando se  
-> investigó su precisión, explicó:
-> <br>
->  
-> "Voy por el cronómetro absolutamente preciso en la ventana  
-> del relojero de la ciudad. Todos los días a las 17:45 pongo mi reloj y  
-> subo la colina donde mi cañón está listo.  
-> A las 17:59, precisamente, me acerco al cañón  
-> y a las 18:00 disparo."    
-> <br>
->  
-> Y estaba claro  
-> que este método de disparo era absolutamente preciso.  
-> Todo lo que quedaba era revisar ese cronómetro. Entonces,  
-> el relojero de la ciudad fue interrogado sobre  
-> la precisión de su instrumento.    
->  <br>
->  
-> "Oh," dijo el relojero,  
-> "este es uno de los instrumentos más precisos de la historia. Imagínense que  
-> desde hace muchos años se ha disparado un cañón a las seis en punto.  
-> Y todos los días miro este cronómetro  
-> y siempre muestra exactamente seis."  
->  <br>
->  
-> **Los cronómetros marcan y el cañón retumba.**  
->
-> Por Miroslav Hosub
+> “Leer el relato de Pétrement sobre aquella profesora de filosofía, frágil y enfermiza, que intentó trabajar en una línea de montaje provoca a la vez admiración y compasión. Pétrement cuenta una historia de Weil viajando por el campo y convenciendo a un campesino que pasaba por allí de permitirle manejar su arado. Ella lo vuelca y desata la furia del campesino. En ese momento, pienso, el lector ve que Weil es un Don Quijote, encantada por fantasías y movida por la esperanza de autenticidad, incapaz de aceptar su realidad social como profesora de clase media y como una persona con mala salud y poca coordinación. Vemos también su grandiosidad en el intento de unirse a la lucha de los leales en España contra Franco, solo para verse obligada a abandonar el país en busca de atención médica: es una mujer que no sabe quién es.”
+> — *Zena Hitz, Lost in Thought: The Hidden Pleasures of an Intellectual Life*
 
-Si algo nos enseña la metrología para la vida cotidiana, es que ningún acto de observación está aislado. 
+Este pasaje me recordó a Anna Karénina, donde Konstantin Levin reflexiona que debemos aceptar la injusticia del mundo y tomar una postura, o negarla y refugiarnos en la fantasía. Levin elige actuar, reconoce la desigualdad social e intenta, con gestos modestos, mejorar la vida de sus campesinos. Pero no busca derribar el orden social. Hacerlo exigiría un esfuerzo enorme, la pérdida de muchos de sus privilegios y una capacidad de sacrificio que no todos pueden sostener, sobre todo cuando el resultado es tan incierto. Parece intuir que los cambios radicales suelen desviarse de su propósito original, mientras que el trabajo lento, aunque menos vistoso, puede ser más duradero.
+
+Simone Weil es movida por un anhelo de pureza y trascendencia; Levin, por un realismo moral. Ambos luchan con la injusticia, pero solo uno intenta vivir dentro de sus límites sin dejarse consumir por ella.
