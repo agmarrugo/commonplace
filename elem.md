@@ -1,23 +1,16 @@
 ---
-title: Lo que amamos
+title: Cómo hacer crecer el alma
 layout: post
-description: 'El secreto de la esperanza.'
+description: 'El poder de las artes.'
 image: assets/images/pic12.jpg
 nav-menu: true
 show_tile: true
 ---
 
- 
-> "I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend."      
-> <br>    
->    
-> “It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were. And sometimes you didn't want to know the end. Because how could the end be happy? How could the world go back to the way it was when so much bad had happened? But in the end, it’s only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer. Those were the stories that stayed with you. That meant something, even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now. Folk in those stories had lots of chances of turning back, only they didn’t. They kept going, because they were holding on to something. That there is some good in this world, and it's worth fighting for.”     
-> <br>    
->    
-> J.R.R. Tolkien, in The Lord of the Rings
+>Source
+>From a 2006 letter by Kurt Vonnegut to students at Xavier High School:
+>
+>“Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage—no matter how well or badly—not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow.”
 
 
-Al final del día, todo se reduce a eso, a lo que defendemos. Todos anhelamos lo mismo que Sam: amor, un jardín, un hogar cálido, amigos, una buena conversación acompañada de una cerveza. Sin embargo, también debemos remangarnos y enfrentar la tarea, como lo hizo Sam.
-
-La belleza de estas citas reside en la esperanza que ofrecen en momentos de dificultad, recordándonos que la fuerza está en aquello que amamos. Lo que amamos nos convierte en mejores esposos, mejores padres y mejores ciudadanos.
-
+Recuerdo que las historias que cargo no están hechas para guardarse. Las que duelen un poco, las que viví y me enseñaron, son las que me dan forma. Contarlas no es un gesto de vanidad, sino de cuidado conmigo mismo. Cuando las escribo, me mantengo cuerdo. Cuando les doy forma, mi alma se estira y crece. El arte no es un trofeo por ganar. Es una forma de mantenerse entero.
