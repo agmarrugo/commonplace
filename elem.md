@@ -7,7 +7,6 @@ nav-menu: true
 show_tile: true
 ---
 
->Source
 >From a 2006 letter by Kurt Vonnegut to students at Xavier High School:
 >
 >“Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage—no matter how well or badly—not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow.”
