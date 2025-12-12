@@ -2,7 +2,7 @@
 layout: post
 title: El amor quijotesco por la justicia
 description: Por un mundo mejor.
-image: assets/images/pic16.jpg
+image: assets/images/IMG_5357.jpeg
 nav-menu: true
 ---
 
