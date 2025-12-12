@@ -2,7 +2,7 @@
 layout: post
 title: Un cuento en la noche 
 description: Por qué debemos leerle a nuestros hijos.
-image: assets/images/pic15.jpg
+image: assets/images/IMG_3311.jpeg
 nav-menu: false
 ---
 
