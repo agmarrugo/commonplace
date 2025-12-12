@@ -2,7 +2,7 @@
 title: No siempre se trata de la respuesta
 layout: post
 description: 'Caminar con curiosidad.'
-image: assets/images/pic13.jpg
+image: assets/images/3e3b40bddc84e17ad1d225f9b94ce9d4.jpeg
 nav-menu: false
 ---
 
