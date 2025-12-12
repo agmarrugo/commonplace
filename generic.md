@@ -2,11 +2,9 @@
 layout: post
 title: En el lugar de otro
 description:  El poder de la literatura.
-image: assets/images/pic14.jpg
+image: assets/images/IMG_0556.jpeg
 nav-menu: true
 ---
-
-En el lugar de otro
 
 > A ti te va bien, ¿no? Tienes un buen trabajo y haces lo que te gusta. Las maestras de jardín de infancia gozan de buena reputación, y además esta mejora con los años, ¿verdad?
 > 
