@@ -7,7 +7,9 @@ nav-menu: true
 ---
 
 > A ti te va bien, ¿no? Tienes un buen trabajo y haces lo que te gusta. Las maestras de jardín de infancia gozan de buena reputación, y además esta mejora con los años, ¿verdad?
-> 
+>
+> [...]
+>
 > —¿De verdad? ¿Acaso la gente creía que mi trabajo consistía solo en pasármelo bien con los niños cantando y tocando el piano y que terminaba cuando se iban a casa? Por inverosímil que les pareciera, había días en que me llevaba el trabajo a casa y tenía que pasar toda la noche en vela hasta que lo terminaba.
 > 
 > *Michiko Aoyama, Mis tardes en el pequeño café de Tokio*
