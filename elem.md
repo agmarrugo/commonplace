@@ -2,7 +2,7 @@
 title: Cómo hacer crecer el alma
 layout: post
 description: 'El poder de las artes.'
-image: assets/images/IMG_9510.jpeg
+image: assets/images/P6182014.jpeg
 nav-menu: true
 show_tile: true
 ---
